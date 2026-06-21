@@ -1,0 +1,5 @@
+file,rows,columns,missing_values
+processed.cleveland.data,303,14,6
+processed.hungarian.data,294,14,782
+processed.switzerland.data,123,14,273
+processed.va.data,200,14,698
