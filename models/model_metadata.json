@@ -1,0 +1,20 @@
+{
+  "model_name": "svc",
+  "random_state": 42,
+  "test_size": 0.2,
+  "selection_policy": "maximize recall first to reduce false negatives; tie-break by balanced accuracy",
+  "best_recall": 0.8333333333333334,
+  "best_balanced_accuracy": 0.8434959349593496,
+  "selected_features_count": 7,
+  "data_notes": {
+    "dataset": "UCI Heart Disease processed combined dataset",
+    "binary_target_rule": "num > 0 -> 1, num == 0 -> 0",
+    "source_distribution": {
+      "processed.cleveland.data": 303,
+      "processed.hungarian.data": 293,
+      "processed.va.data": 199,
+      "processed.switzerland.data": 123
+    },
+    "clinical_range_check": "warning: Column chol has clinically implausible values. Expected [0, 600], examples=[603.0]"
+  }
+}

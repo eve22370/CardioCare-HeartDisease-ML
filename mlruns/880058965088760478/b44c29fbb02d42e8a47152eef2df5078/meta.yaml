@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eve22/Downloads/cardiocare_project_final_uci_clean_comments/mlruns/880058965088760478/b44c29fbb02d42e8a47152eef2df5078/artifacts
+end_time: 1782038687073
+entry_point_name: ''
+experiment_id: '880058965088760478'
+lifecycle_stage: active
+run_id: b44c29fbb02d42e8a47152eef2df5078
+run_name: svc
+run_uuid: b44c29fbb02d42e8a47152eef2df5078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782038681624
+status: 3
+tags: []
+user_id: eve2237

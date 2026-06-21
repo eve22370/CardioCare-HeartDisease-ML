@@ -1,0 +1,7 @@
+numeric__age
+numeric__cp
+numeric__trestbps
+numeric__chol
+numeric__thalach
+numeric__exang
+numeric__oldpeak
